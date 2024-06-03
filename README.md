@@ -2,6 +2,8 @@
 
 This project provides functions to encode and decode strings using Base64 in Lua. It includes helper functions for binary string manipulation and handles padding correctly to ensure accurate decoding.
 
+![Image of encryption](https://imgur.com/a/nXsgOKI)
+
 ## Features
 
 - **Base64 Encoding**: Converts a string to its Base64 representation.
